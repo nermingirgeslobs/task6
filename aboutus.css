@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.colors
+{margin-left: 250px;
+    color: white !important;
+    
+}
+
+.colors:hover
+{
+    font-size: larger;
+    color:yellow !important;
+}
+
+.cards
+{
+  margin: 100px;  
+}

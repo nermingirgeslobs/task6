@@ -1,0 +1,98 @@
+.image
+{
+    text-align: center;
+    margin: 100px;
+}
+body{
+   
+margin-bottom: 250px;
+    
+}
+.colors
+{margin-left: 250px;
+    color: white !important;
+    
+}
+
+.colors:hover
+{
+    font-size: larger;
+    color:yellow !important;
+}
+
+.space 
+
+{
+    margin-left: 10px;
+}
+
+.words
+{
+    text-align: center;
+    font-weight: bolder;
+    margin: 250px;
+    color:yellow;
+}
+
+.butt
+{
+text-align: center;
+}
+
+#aa
+{
+    text-decoration: none;
+}
+
+#aa:hover
+{
+    color: white !important;
+}
+.CON
+{
+    display: flex;
+}
+
+h1
+{
+    text-align: center;
+}
+P{
+    text-align: center;
+}
+
+#IMAGE
+{margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+#by
+{margin-top:-400PX;
+    margin-left: 220px;
+    text-align: center;
+    border: 1PX solid white;
+    border-radius: 30PX;
+    
+}
+
+#SH
+{
+    text-decoration: none;
+}
+
+#BUTTON
+{background-color: white;
+    text-align: center;
+}
+
+button:hover{
+background-color: blue;
+
+font-size: large;
+}
+
+
+a:hover
+{
+    color: white;
+}
